@@ -33,8 +33,8 @@ function Profile() {
             <div className="name">
               <div className="name-top">
                 <h3>{name}</h3>
-                <i ><IoDiamondOutline style={{backgroundColor: 'navy', color: 'white', padding: '3px', borderRadius: '50%'}} /></i>
-                <i><FaCheck style={{backgroundColor: 'lightgreen', color: 'white', padding: '3px', borderRadius: '50%'}} /></i>
+                <i ><IoDiamondOutline style={{backgroundColor: 'navy', color: 'white', padding: '3px', borderRadius: '50%',fontSize: '2.5vw'}} /></i>
+                <i><FaCheck style={{backgroundColor: 'lightgreen', color: 'white', padding: '3px', borderRadius: '50%',fontSize: '2.5vw'}} /></i>
               </div>
 
               <div className="name-bottom">
