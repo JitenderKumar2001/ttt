@@ -47,7 +47,7 @@ header{
 .about{
   padding: 10px 5vw;
   padding-bottom: 100px;
-  border-bottom:1px solid rgb(171, 169, 169);
+  border-bottom:1px solid #DCDCDC;
 }
 
 .top{
@@ -82,7 +82,7 @@ header{
 } */
 
 .name-top h3{
-  font-size: 3vw;
+  font-size: 3.5vw;
 }
 
 .name-bottom{
@@ -141,21 +141,21 @@ header{
 
 .demo{
   position: absolute;
-  top: -82px;
+  top: -67px;
   /* transform: translateY(-100px); */
   background-color: white;
   color: blue;
-  height: 50px;
+  height: 35px;
   width: 30vw;
-  border-top:1px solid rgb(171, 169, 169);
-  border-right:1px solid rgb(171, 169, 169);
+  border-top:1px solid #DCDCDC;
+  border-right:1px solid #DCDCDC;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .post{
-  border-bottom: 1px solid rgb(171, 169, 169);
+  border-bottom: 1px solid #DCDCDC;
   padding: 0 1.2rem;
 }
 

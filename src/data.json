@@ -2,7 +2,7 @@
     {
         "title": "A Changing World Order",
         "content": "The world is changing at a feverish pace. Friends, colleagues, and everyone engaged in knowledge work are beginning to sense this, including ...",
-        "author": "anujgosalia",
+        "author": "anuj gosalia",
         "date": "August 2",
         "readTime": "2 mins Read",
         "views": 102
@@ -10,9 +10,17 @@
     {
         "title": "India v/s Australia",
         "content": "Think about it - this cricket series was akin to therapy\n\n Laying our childhood trauma up top, working with it slowly and surely over two m... ",
-        "author": "anotherauthor",
+        "author": "anuj gosalia",
         "date": "August 5",
         "readTime": "3 mins Read",
         "views": 78
+    },
+    {
+        "title": "Write To Build",
+        "content": "Writing is the first step to create: \n\n -stories\n -products\n -companies",
+        "author": "anuj gosalia",
+        "date": "August 8",
+        "readTime": "1 mins Read",
+        "views": 754
     }
 ]

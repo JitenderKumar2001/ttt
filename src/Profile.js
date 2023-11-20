@@ -33,8 +33,8 @@ function Profile() {
             <div className="name">
               <div className="name-top">
                 <h3>{name}</h3>
-                <i ><IoDiamondOutline style={{backgroundColor: 'navy', color: 'white', padding: '3px', borderRadius: '50%',fontSize: '2.5vw'}} /></i>
-                <i><FaCheck style={{backgroundColor: 'lightgreen', color: 'white', padding: '3px', borderRadius: '50%',fontSize: '2.5vw'}} /></i>
+                <i ><IoDiamondOutline style={{backgroundColor: 'navy', color: 'white', padding: '2px', borderRadius: '50%',fontSize: '3.2vw'}} /></i>
+                <i><FaCheck style={{backgroundColor: 'lightgreen', color: 'white', padding: '2px', borderRadius: '50%',fontSize: '3.2vw'}} /></i>
               </div>
 
               <div className="name-bottom">
@@ -64,11 +64,11 @@ function Profile() {
               </div>
               <div className="star">
                 <i><ImEye style={{color: 'white', backgroundColor: 'gray', padding: '3px', fontSize: '1rem', borderRadius: '50%'}} /></i>
-                <p>{socialStats.seen}</p>
+                <p>{socialStats.seen} K</p>
               </div>
               <div className="star">
                 <i><CiHeart style={{color: 'white', backgroundColor: 'red', padding: '3px', fontSize: '1rem', borderRadius: '50%'}} /></i>
-                <p>{socialStats.heart}</p>
+                <p>{socialStats.heart} K</p>
               </div>
             </div>
           </div>
